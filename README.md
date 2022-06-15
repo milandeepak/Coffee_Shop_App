@@ -6,15 +6,12 @@
 ## Screenshot
 
 
-<img src="https://github.com/milandeepak/Coffee_Shop_App/blob/791039121c6cf2d5e6cee39226f4c1a2b6a06071/CoffeeAppSS.jpg" alt="Coffee App" style="width:400px;height:900px;">
+<img src="https://github.com/milandeepak/Coffee_Shop_App/blob/791039121c6cf2d5e6cee39226f4c1a2b6a06071/CoffeeAppSS.jpg" alt="Coffee App" style="width:300px;height:600px;">
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/milandeepak/Coffee_Shop_App/blob/791039121c6cf2d5e6cee39226f4c1a2b6a06071/Demo.mp4" type="video/mp4">
- 
-Your browser does not support the video tag.
-</video>
+![Demo](https://user-images.githubusercontent.com/71485068/173863965-728fa80c-b727-4d5d-a228-3e40a43dfc4f.gif)
+
 
 ## This App was created by following the free [Udacity Course](https://learn.udacity.com/courses/ud836)
 
