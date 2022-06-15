@@ -6,7 +6,7 @@
 ## Screenshot
 
 
-<img src="https://github.com/milandeepak/Coffee_Shop_App/blob/791039121c6cf2d5e6cee39226f4c1a2b6a06071/CoffeeAppSS.jpg" alt="Coffee App" style="width:300px;height:600px;">
+<img src="https://github.com/milandeepak/Coffee_Shop_App/blob/791039121c6cf2d5e6cee39226f4c1a2b6a06071/CoffeeAppSS.jpg" alt="Coffee App" style="width:250px;height:600px;">
 
 ## Demo
 
